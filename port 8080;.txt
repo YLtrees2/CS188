@@ -1,0 +1,9 @@
+port 8080;
+path /echo EchoHandler {}
+path /static StaticFileHandler {
+ root "example_static_files";
+}
+
+
+asdf 1429801253 { sfdjklfsda;fsda asdf fdasjklfsda; }
+
